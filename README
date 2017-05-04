@@ -1,0 +1,20 @@
+########### Holly Self ##############
+## MSc AMFE Univeristy of Aberdeen ##
+###### ZO5901 Research Project ######
+#####################################
+
+#### DATA DESCRIPTION ####
+# opportunistic sightings from Whale & Dolphin Tracker
+# data provided by the Pacific Whale Foundation
+# subject to an MOU.
+
+#### CODE DESCRIPTION ####
+# Data quality control 
+# Data profiling to discover inconsistencies and other anomalies in the data, 
+# as well as performing data cleansing activities (e.g. removing outliers, 
+# missing data interpolation) to improve the data quality.
+
+#### DISTRIBUTION ####
+# This code was written by Holly Self, and shared with the PWF
+# subject to an MOU agreed by the PWF, Holly Self, and the University of Aberdeen
+# It is not to be distributed beyond the PWF 
